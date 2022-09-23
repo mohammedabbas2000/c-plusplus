@@ -1,4 +1,4 @@
-# C++
+# HomeWork 1
 1. Write a function that receives a linked list by pointer to the top of the list and returns a number
 Pay which is the amount of organs in the list the length of a list
 
