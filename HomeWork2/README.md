@@ -1,4 +1,4 @@
-#HomeWork 2 
+# HomeWork 2 
  1. Write a function (root* node(isEmpty int) that receives a pointer to the root of a binary tree,
 and checks whether the tree is empty.
 The function returns a value of 1 if the tree is empty, and 0 otherwise
